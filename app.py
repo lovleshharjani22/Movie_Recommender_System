@@ -5,7 +5,7 @@ import requests
 page_by_img = """
 <style>
 [data-testid="stAppViewContainer"]{
-background-image:url("https://wallpapers.com/images/featured-full/movie-9pvmdtvz4cb0xl37.jpg");
+background-image:url("https://wallpapers.com/images/hd/american-movie-posters-z0puq43u0qbtr6j2.webp");
 background-size: cover;
 }
 [data-testid="block-container"]{
