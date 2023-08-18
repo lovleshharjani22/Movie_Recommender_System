@@ -9,7 +9,7 @@ background-image:url("https://wallpapers.com/images/hd/american-movie-posters-z0
 background-size: cover;
 }
 [data-testid="block-container"]{
-background-color: rgba(0,0,0,0.5);
+background-color: rgba(0,0,0,1);
 }
 </style>
 """
